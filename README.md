@@ -1,11 +1,14 @@
-# Password Generator
+# Python Program
 
-This is my first Python project.
+This repository contains Python projects created by Sristi.
 
-## Features
-- Generates random passwords
-- User can choose password length
-- Uses letters, numbers, and symbols
+## Projects
+- Password Generator
+- Password Strength Checker
+- File Organiser
 
-Created by:
+## Language
+- Python 3
+
+## Author
 Sristi Walwatkar
