@@ -1,0 +1,25 @@
+Example 1
+
+Enter an IPv4 address: 192.168.1.1
+Valid IPv4 Address
+
+----------------------------------
+
+Example 2
+
+Enter an IPv4 address: 256.100.20.1
+Invalid IPv4 Address
+
+----------------------------------
+
+Example 3
+
+Enter an IPv4 address: 192.168.abc.1
+Invalid IPv4 Address
+
+----------------------------------
+
+Example 4
+
+Enter an IPv4 address: 10.0.0.5
+Valid IPv4 Address
